@@ -1,4 +1,3 @@
-![my photo](https://github.com/dobroslov/rsschool-cv/raw/gh-pages/Avatar.png "my photo")
 # Arshinnikov Vladimir
 ## Contact information
 
