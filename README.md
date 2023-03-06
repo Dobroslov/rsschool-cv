@@ -1,1 +1,1 @@
-https://Dobroslov.github.io/rsschool-cv/cvgit
+https://Dobroslov.github.io/rsschool-cv/cv
