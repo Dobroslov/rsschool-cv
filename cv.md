@@ -1,3 +1,5 @@
+![My photo](https://github.com/Dobroslov/rsschool-cv/raw/gh-pages/avatar.png)
+
 # Arshinnikov Vladimir
 ## Contact information
 
